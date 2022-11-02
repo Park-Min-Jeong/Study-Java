@@ -1,4 +1,4 @@
-package helloworld;
+package variable;
 
 public class Code5 {
 	public static void main(String[] args)

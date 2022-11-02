@@ -1,4 +1,4 @@
-package helloworld;
+package variable;
 
 public class Code9 {
 	public static void main(String[] args)
