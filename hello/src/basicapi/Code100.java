@@ -20,7 +20,7 @@ public class Code100 {
 			if (guess > computerChoice)
 				System.out.println("Enter smaller number");
 			if (guess < computerChoice)
-				System.out.println("Enter bigger number");
+				System.out.println("Enter bigger number");		
 		}
 		
 		System.out.println("You got the anwer");
