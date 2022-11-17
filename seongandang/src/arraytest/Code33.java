@@ -1,4 +1,4 @@
-package array;
+package arraytest;
 
 public class Code33 {
 	public static void main(String[] args) {
